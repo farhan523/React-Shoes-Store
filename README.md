@@ -1,3 +1,6 @@
+# this website is hosted on Surge URL
+https://shoes-store_react_router.surge.sh/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
