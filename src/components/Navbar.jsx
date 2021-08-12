@@ -4,11 +4,13 @@ import { Link, Route, Switch } from 'react-router-dom'
 import Feed from './Feed'
 import Instock from './Instock'
 import Upcoming from './Upcoming'
+import image from './image/images.png'
 
 function Navbar() {
     return (
         <>
             <nav className="navbar">
+                <img src={image} alt={'im'} style={{ height: '100%', width: '100px', alignSelf: 'flex-start' }}></img>
                 <ul style={{ textDecoration: 'none', listStyle: "none", width: '300px', height: '100%', display: 'flex', justifyContent: 'space-around', alignItems: 'center' }}>
                     <li>
                         <Link className='text-link' to="/">FEED</Link>
