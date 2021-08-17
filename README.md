@@ -1,5 +1,5 @@
 # this website is hosted on Surge URL
-https://shoes-store_react_router.surge.sh/
+https://react-routes_shoes_store.surge.sh/
 
 # Getting Started with Create React App
 
